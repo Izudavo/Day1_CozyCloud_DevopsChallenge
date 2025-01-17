@@ -19,8 +19,6 @@ Personally, i encountered a lot of debugging cause of uprising issues form my VS
 
 Loved every process of this learnig phase! Kudos to CozyCloud Crew, Much Love! Cant wait for you to dive in. SEE YOU IN THE CLOUDS...
 
-Don forget to Clone the repository:
-
-   ```bash git clone https://github.com/Izudavo/Day1_CozyCloud_DevopsChallenge
+Dont forget to Clone the repository: ```bash git clone https://github.com/Izudavo/Day1_CozyCloud_DevopsChallenge
 cd weather-dashboard
 
