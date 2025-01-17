@@ -21,4 +21,6 @@ i. Clone the repository:
    git clone https://github.com/Izudavo/Day1_CozyCloud_DevopsChallenge
    cd weather-dashboard
 
+Personally, i encountered a lot of debugging cause of uprising issues form my VS Code IDE, not until after roughly a week i tried again using the GitBash, and a litle bit of patience helped then i could finally conquer the boto3 installation process, and i got it finally.
 
+Loved every process of this learnig phase! Kudos to CozyCloud Crew, Much Love! Cant wait for you to dive in. SEE YOU IN THE CLOUDS...
