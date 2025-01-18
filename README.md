@@ -5,6 +5,8 @@ It fetches near real time weather data from the OpenWeather API and stores it in
 
 This application process was built using Python, the AWS SDK (which is boto3), integrating environmental variables to manage sensitive information like API keys and AWS credentials.
 
+The whole project work was deployed in eu-west-2(London) region on AWS, and weather data will come locally from cities (Akure, Lagos, Enugu) in my country Nigeria.
+
 Things to know:
 Before running this project, make sure you do the following:
 
